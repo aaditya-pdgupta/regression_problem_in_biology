@@ -63,7 +63,8 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
      n\sum_{i}^{n}x_{i} & \sum_{i}^{n}x_{i}^{2}$$ 
      
      
- Similarly     
+ Similarly
+ $$covariance(x,y) = \frac{\sum_{i}^{n} (x_{i} - \Bar{x})(y_{i} - \Bar{y})}{n}$$
      
      
     
