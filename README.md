@@ -40,3 +40,6 @@ The method of least squares is a standard approach in regression analysis to app
 
 Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \dots , a_{n})$ be the function that is fitted to the data set. The square of the reside ( $R^{2}$ ) is calculated as
  $$R^{2} = \sum_{i}^{n} \left[ y_{i} - f(x_{i}, a_{1}, a_{2}, \dots , a_{n}) \right]^{2}$$
+ 
+ The $R^{2}$ is minimized and the condition for $R^{2}$ to be a minimum is that
+  $$\frac{\partial R^{2}}{\partial a_{i}} = 0 \quad \forall  \quad i = 1, 2, \dots, n$$
