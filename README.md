@@ -14,4 +14,4 @@ Regression involves the determination of the degree of relationship in the patte
 
 The dataset for this model is retrieved from a book named "Fitting Models to Biological Data using Linear and Nonlinear Regression". In this model, various doses of a drug were injected into three animals, and the change in blood pressure for each animal was recorded. The data for this model is fitted with nonlinear regression. The dataset includes 2 variables along with 4 parameters. The variables used in this dataset are shown below in table.
 
-| log(dose) | $Y_{1}$ | $Y_{2}$ | |$Y_{3}$ |
+| log(dose) | $Y_{1}$ | $Y_{2}$ | | $Y_{3} |
