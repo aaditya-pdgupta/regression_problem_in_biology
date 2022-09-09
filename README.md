@@ -46,7 +46,7 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
   
    For a linear fit,
    
-   f(a,b) = ax + b
+   $$f(a,b) = ax + b$$
    
    Then,
   $$R^{2}(a,b) = \sum_{i}^{n} \left[ y_{i} - (ax_{i} + b) \right]^{2}$$
