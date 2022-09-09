@@ -65,6 +65,10 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
      
  Similarly
  $$covariance(x,y) = \frac{\sum_{i}^{n} (x_{i} - \Bar{x})(y_{i} - \Bar{y})}{n}$$
+ 
+ # Result
+ 
+In regression analysis, curve fitting is the process of specifying the model that provides the best fit to the specific curve in our dataset. Here, we tried the following models represented by equation written below in our fit. Equation first is a linear equation in independent variable x as function of dose and dependent variable y as response. In this model, we have a and b as the parameters.  Similarly, equation second is a quadratic equation that defines the response (dependent variable, y)  and function of dose ( independent variable, x), with the model parameters  a, b and c. Equation third is a cubic equation in x and y defined as in linear and quadratic equation, with the model parameters a, b, c, and d.  
      
      
     
