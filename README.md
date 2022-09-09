@@ -50,3 +50,13 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
    
    Then,
     $$R^{2}(a,b) = \sum_{i}^{n} \left[ y_{i} - (ax_{i} + b) \right]^{2}$$
+    $$\frac{\partial R^{2}}{\partial a} = - 2 \sum_{i}^{n} \left[ y_{i} - (ax_{i} + b) \right] = 0$$
+    $$\frac{\partial R^{2}}{\partial b} = - 2 \sum_{i}^{n} \left[ y_{i} - (ax_{i} + b) \right]x_{i} = 0$$
+    
+    These lead to the equations
+    $$na + b \sum_{i}^{n}x_{i} = \sum_{i}^{n}y_{i}$$
+    $$na\sum_{i}^{n}x_{i} + b \sum_{i}^{n}x_{i}^{2} = \sum_{i}^{n}x_{i}y_{i}$$
+    
+     In the matrix form:
+     $$n & \sum_{i}^{n}x_{i} \\
+     n\sum_{i}^{n}x_{i} & \sum_{i}^{n}x_{i}^{2}$$
