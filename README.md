@@ -59,6 +59,8 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
  $$na\sum_{i}^{n}x_{i} + b \sum_{i}^{n}x_{i}^{2} = \sum_{i}^{n}x_{i}y_{i}$$
  
  In the matrix form:
+ $$n & \sum_{i}^{n}x_{i} \\
+     n\sum_{i}^{n}x_{i} & \sum_{i}^{n}x_{i}^{2}$$ 
     
     
     
