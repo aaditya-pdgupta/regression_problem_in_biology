@@ -1,0 +1,5 @@
+# Introduction
+
+A model is a mathematical description of a physical, chemical, or biological state or process whose part are mathematical concepts such as constant, variables, function, equation, inequalities, etc. Using a model help us to think about such processes and their mechanisms, so we can design better experiments and comprehend the results. 
+Models are tools that assist in theory development \cite{cavagnaro2013mathematical}. Criteria for selecting a model include the goodness of fit, freedom from systematic error and simplicity \cite{garfinkel1984fitting}. To fit the model we need regression. The regression model is an equation that defines the outcome, or dependent variable Y, as
+a function of an independent variable X, and one or more model parameters. The regression model determines a relationship between an independent variable and a dependent variable by providing a function. Regression analysis is often used to demonstrate association among variables believed to be biologically related. Linear and non-linear regression fit a mathematical model to the data to determine the best values of the parameters of the model.
