@@ -16,4 +16,4 @@ The dataset for this model is retrieved from a book named "Fitting Models to Bio
 
 | log(dose) | $Y_{1} | $Y_{2} | |$Y_{3} |
 | --------- | ------ | ------ | | ----- |
-| -7.0      | 1      | 4      | | 5     |
+| $-7.0$      | $1$      | $4$      | | $5$     |
