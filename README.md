@@ -76,7 +76,7 @@ The fourth equation shows a standard model named as Hill function. It is used to
  $$y = ax^{3} + bx^{2} + cx + d$$
  $$y = Bottom + \frac{Top - Bottom}{1 + \left( \frac{10^{LogEC_{50}}}{10^{x}} \right)^{Hillslope}}$$
  
- Curved relationships between variables are not as straightforward to fit and interpret. In order to fit in the model represented by linear equations, quadratic equation, and cubic equation, we assume bottom as lower error ( $\Delta L$ ), and Top as upper error ( $\Delta U$ ). These two error are asymmetric, and they are made symmetric using ( error =$\sqrt{\Delta L^{2} + \Delta U^{2}}$ ). Then the data that is fitted to the model using Scipy and the fitted parameters are determined.  
+ Curved relationships between variables are not as straightforward to fit and interpret. In order to fit in the model represented by linear equations, quadratic equation, and cubic equation, we assume bottom as lower error ( $\Delta L$ ), and Top as upper error ( $\Delta U$ ). These two error are asymmetric, and they are made symmetric using error =$\sqrt{\Delta L^{2} + \Delta U^{2}}$. Then the data that is fitted to the model using Scipy and the fitted parameters are determined.  
      
      
     
