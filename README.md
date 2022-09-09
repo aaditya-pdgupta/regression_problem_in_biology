@@ -90,6 +90,11 @@ Figure named as data plot with asymmetric error and figure named as data plot wi
   <img src="../main/Regression/quadratic_function.jpeg"  width="48%" /> 
 </p>
 
+ <p align="center">
+  <img src="../main/Regression/cubic_function.jpeg"  width="48%" />
+  <img src="../main/Regression/fit_data_without_error.jpeg"  width="48%" /> 
+</p>
+
 
      
     
