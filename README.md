@@ -61,6 +61,11 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
  In the matrix form:
  $$n & \sum_{i}^{n}x_{i} \\
      n\sum_{i}^{n}x_{i} & \sum_{i}^{n}x_{i}^{2}$$ 
+     
+     
+ Similarly     
+     
+     
     
     
     
