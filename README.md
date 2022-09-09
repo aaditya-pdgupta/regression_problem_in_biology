@@ -85,6 +85,12 @@ The fourth equation shows a standard model named as Hill function. It is used to
 
 Figure named as data plot with asymmetric error and figure named as data plot with symmetric error show the data with asymmetric error and symmetric error respectively. Along the x-axis we have a log of the Dose that is applied to the animals and along the y-axis, we have a change in the blood pressure of animals along the y-axis while doses are given to them. Uncertainty has of great importance to avoid biased results. The asymmetric errors are converted to symmetric ones because the least squares algorithm like curve_fit will not be able to calculate the loss function negative error. 
 
+ <p align="center">
+  <img src="../main/Regression/linear_function.jpeg"  width="48%" />
+  <img src="../main/Regression/quadratic_function.jpeg"  width="48%" /> 
+</p>
+
+
      
     
     
