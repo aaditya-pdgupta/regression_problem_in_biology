@@ -96,6 +96,7 @@ Figure named as data plot with asymmetric error and figure named as data plot wi
 </p>
 
 
+The figures above show the plot for both data along with uncertainties and the corresponding model that is fitted to it.  Along the x-axis we have a log of the Dose that is applied to the animals and along the y-axis, we have a change in the blood pressure of animals along the y-axis while doses are given to them.  Figure first shows the straight line fit to the data, while figure second shows the quadratic fit.  Similarly, figure third and figure fourth show the cubic equation fit and Hill function fit respectively. The fitted data formed a curve that is fitting the maximum data and providing us with the best fit for our data. Figure fourth does not have uncertainties in the response value as the Hill function have the parameters to accommodate the lower and the upper values of the change in blood pressures.
      
     
     
