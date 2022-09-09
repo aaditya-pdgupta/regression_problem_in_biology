@@ -45,7 +45,6 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
   $$\frac{\partial R^{2}}{\partial a_{i}} = 0 \quad \forall  \quad i = 1, 2, \dots, n$$
   
    For a linear fit,
-   
     f(a,b) = ax + b
     
     Then,
