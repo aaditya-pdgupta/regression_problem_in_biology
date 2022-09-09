@@ -71,6 +71,10 @@ Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \
 In regression analysis, curve fitting is the process of specifying the model that provides the best fit to the specific curve in our dataset. Here, we tried the following models represented by equations written below in our fit. Equation first is a linear equation in independent variable x as function of dose and dependent variable y as response. In this model, we have a and b as the parameters.  Similarly, equation second is a quadratic equation that defines the response (dependent variable, y)  and function of dose ( independent variable, x), with the model parameters  a, b and c. Equation third is a cubic equation in x and y defined as in linear and quadratic equation, with the model parameters a, b, c, and d.
 
 The fourth equation shows a standard model named as Hill function. It is used to model density-dependent growth or decline. Here it is used to model a process when various doses of a drug are applied to animals and the corresponding response was measured. The response (also called the independent variable, y) is measured as a function of dose (also called the independent variable, x). The model parameters are Bottom, which denotes the value of y for the minimal curve asymptote (theoretically, the level of response, if any, in the absence of drug, and Top which denotes the value of y for the maximal curve asymptote (theoretically, the level of response produced by an infinitely high concentration of drug), LogEC50 which denotes the logarithm of drug dose (or concentration) that produces the response halfway between the Top and Bottom response levels (commonly used as a measure of drugs' potency), and the Hillslope which denotes the steepness of the drug-response curve (often used as a measure of the sensitivity of the system to increments in drug concentration or doses.
+ $$y = ax + b$$
+ $$y = ax^{2} + bx + c$$
+ $$y &= ax^{3} + bx^{2} + cx + d$$
+ $$y = Bottom + \frac{Top - Bottom}{1 + \left( \frac{10^{LogEC_{50}}}{10^{x}} \right)^{Hillslope}}$$
      
      
     
