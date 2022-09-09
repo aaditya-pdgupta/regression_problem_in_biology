@@ -39,3 +39,4 @@ In python, the curve fit can be formed using several modules such as Scipy and l
 The method of least squares is a standard approach in regression analysis to approximate the solution of over-determined systems (sets of equations in which there are more equations than unknowns) by minimizing the sum of the squares of the residuals (a residual being the difference between an observed value and the fitted value provided by a model) made in the results of each equation.
 
 Let $y_{i}$ be the observed set of  n data points, and $f(x_{i}, a_{1}, a_{2}, \dots , a_{n})$ be the function that is fitted to the data set. The square of the reside ( $R^{2}$ ) is calculated as
+ $$R^{2} = \sum_{i}^{n} \left[ y_{i} - f(x_{i}, a_{1}, a_{2}, \dots , a_{n}) \right]^{2}$$
