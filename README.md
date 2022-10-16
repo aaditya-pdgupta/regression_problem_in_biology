@@ -1,3 +1,4 @@
+The preprint version of this article is published on biorxiv. [https://doi.org/10.1101/2022.09.08.507150](https://doi.org/10.1101/2022.09.08.507150)
 # Introduction
 
 A model is a mathematical description of a physical, chemical, or biological state or process whose part are mathematical concepts such as constant, variables, function, equation, inequalities, etc. Using a model help us to think about such processes and their mechanisms, so we can design better experiments and comprehend the results. 
